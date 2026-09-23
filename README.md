@@ -1,1 +1,0 @@
-# AI-Parking-Detection-Model-using-MSP430-TI-Board
